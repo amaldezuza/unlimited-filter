@@ -7,7 +7,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-   "description": "Telegram's Best Filter Bot😴Developed By DX_Botz",
+   "description": "Telegram's Best Filter Bot😴",
    "env": {
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /",
@@ -29,20 +29,20 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "809546777"
+         "value": "917063386"
       },
       "OWNER_NAME": {
          "description": "Enter Your Name",
-         "value": "𒆜DⱥℝkͥAnͣgͫeℓ𒆜"
+         "value": "✪ 𒆜Pɑɓʆѳ Ɛรcѳɓɑʀ𒆜 ✪"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "917063386"
       },
        "START_IMG": {
          "description": "Image shows when hit /start",
-         "value": "https://telegra.ph/file/fc734b227985a1524e715.jpg"    
+         "value": "https://telegra.ph/file/d2a7605fa81a9cfa09d1a.jpg"    
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -52,18 +52,18 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "917063386"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "917063386"
       },
      
       "TOKEN": {
          "description": "Your bot token.",
          "required": true,
-         "value": ""
+         "value": "1493830060:AAHtsSKWrUzQ6BvJYQUxuiRm75dI50AGc9M"
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
@@ -78,7 +78,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "699615803 809546777"
+         "value": "917063386"
       }
    },
    "keywords": [
